@@ -1,0 +1,28 @@
+﻿  [Proiect][1051][Divoiu Claudiu] - [Faza 3].cpp
+C:\Users\Claudiu\Desktop\Scoala\Anul 2\POO\[Proiect][1051][Divoiu Claudiu] - [Faza 3]\[Proiect][1051][Divoiu Claudiu] - [Faza 3].cpp(2527,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Claudiu\Desktop\Scoala\Anul 2\POO\[Proiect][1051][Divoiu Claudiu] - [Faza 3]\[Proiect][1051][Divoiu Claudiu] - [Faza 3].cpp(2537,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Claudiu\Desktop\Scoala\Anul 2\POO\[Proiect][1051][Divoiu Claudiu] - [Faza 3]\[Proiect][1051][Divoiu Claudiu] - [Faza 3].cpp(2547,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Claudiu\Desktop\Scoala\Anul 2\POO\[Proiect][1051][Divoiu Claudiu] - [Faza 3]\[Proiect][1051][Divoiu Claudiu] - [Faza 3].cpp(2557,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Claudiu\Desktop\Scoala\Anul 2\POO\[Proiect][1051][Divoiu Claudiu] - [Faza 3]\[Proiect][1051][Divoiu Claudiu] - [Faza 3].cpp(2567,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Claudiu\Desktop\Scoala\Anul 2\POO\[Proiect][1051][Divoiu Claudiu] - [Faza 3]\[Proiect][1051][Divoiu Claudiu] - [Faza 3].cpp(2831,34): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\Claudiu\Desktop\Scoala\Anul 2\POO\[Proiect][1051][Divoiu Claudiu] - [Faza 3]\[Proiect][1051][Divoiu Claudiu] - [Faza 3].cpp(2831,65): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\Claudiu\Desktop\Scoala\Anul 2\POO\[Proiect][1051][Divoiu Claudiu] - [Faza 3]\[Proiect][1051][Divoiu Claudiu] - [Faza 3].cpp(2831,96): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\Claudiu\Desktop\Scoala\Anul 2\POO\[Proiect][1051][Divoiu Claudiu] - [Faza 3]\[Proiect][1051][Divoiu Claudiu] - [Faza 3].cpp(2831,129): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\Claudiu\Desktop\Scoala\Anul 2\POO\[Proiect][1051][Divoiu Claudiu] - [Faza 3]\[Proiect][1051][Divoiu Claudiu] - [Faza 3].cpp(2831,160): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\Claudiu\Desktop\Scoala\Anul 2\POO\[Proiect][1051][Divoiu Claudiu] - [Faza 3]\[Proiect][1051][Divoiu Claudiu] - [Faza 3].cpp(2956,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Claudiu\Desktop\Scoala\Anul 2\POO\[Proiect][1051][Divoiu Claudiu] - [Faza 3]\[Proiect][1051][Divoiu Claudiu] - [Faza 3].cpp(2960,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Claudiu\Desktop\Scoala\Anul 2\POO\[Proiect][1051][Divoiu Claudiu] - [Faza 3]\[Proiect][1051][Divoiu Claudiu] - [Faza 3].cpp(2964,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Claudiu\Desktop\Scoala\Anul 2\POO\[Proiect][1051][Divoiu Claudiu] - [Faza 3]\[Proiect][1051][Divoiu Claudiu] - [Faza 3].cpp(2968,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Claudiu\Desktop\Scoala\Anul 2\POO\[Proiect][1051][Divoiu Claudiu] - [Faza 3]\[Proiect][1051][Divoiu Claudiu] - [Faza 3].cpp(2972,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Claudiu\Desktop\Scoala\Anul 2\POO\[Proiect][1051][Divoiu Claudiu] - [Faza 3]\[Proiect][1051][Divoiu Claudiu] - [Faza 3].cpp(3005,33): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\Claudiu\Desktop\Scoala\Anul 2\POO\[Proiect][1051][Divoiu Claudiu] - [Faza 3]\[Proiect][1051][Divoiu Claudiu] - [Faza 3].cpp(3005,64): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\Claudiu\Desktop\Scoala\Anul 2\POO\[Proiect][1051][Divoiu Claudiu] - [Faza 3]\[Proiect][1051][Divoiu Claudiu] - [Faza 3].cpp(3005,95): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\Claudiu\Desktop\Scoala\Anul 2\POO\[Proiect][1051][Divoiu Claudiu] - [Faza 3]\[Proiect][1051][Divoiu Claudiu] - [Faza 3].cpp(3005,128): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\Claudiu\Desktop\Scoala\Anul 2\POO\[Proiect][1051][Divoiu Claudiu] - [Faza 3]\[Proiect][1051][Divoiu Claudiu] - [Faza 3].cpp(3005,159): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\Claudiu\Desktop\Scoala\Anul 2\POO\[Proiect][1051][Divoiu Claudiu] - [Faza 3]\[Proiect][1051][Divoiu Claudiu] - [Faza 3].cpp(3078,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Claudiu\Desktop\Scoala\Anul 2\POO\[Proiect][1051][Divoiu Claudiu] - [Faza 3]\[Proiect][1051][Divoiu Claudiu] - [Faza 3].cpp(3082,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Claudiu\Desktop\Scoala\Anul 2\POO\[Proiect][1051][Divoiu Claudiu] - [Faza 3]\[Proiect][1051][Divoiu Claudiu] - [Faza 3].cpp(3086,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Claudiu\Desktop\Scoala\Anul 2\POO\[Proiect][1051][Divoiu Claudiu] - [Faza 3]\[Proiect][1051][Divoiu Claudiu] - [Faza 3].cpp(3090,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Claudiu\Desktop\Scoala\Anul 2\POO\[Proiect][1051][Divoiu Claudiu] - [Faza 3]\[Proiect][1051][Divoiu Claudiu] - [Faza 3].cpp(3094,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Claudiu\Desktop\Scoala\Anul 2\POO\[Proiect][1051][Divoiu Claudiu] - [Faza 3]\[Proiect][1051][Divoiu Claudiu] - [Faza 3].cpp(2769): warning C4715: 'Meniu::Procesor': not all control paths return a value
+  [Proiect][1051][Divoiu Claudiu] - [Faza 3].vcxproj -> C:\Users\Claudiu\Desktop\Scoala\Anul 2\POO\[Proiect][1051][Divoiu Claudiu] - [Faza 3]\Debug\[Proiect][1051][Divoiu Claudiu] - [Faza 3].exe
