@@ -1,2 +1,5 @@
 # Proiect-POO
 A simple console application for managing a chain of stores. It was developed for the final project of the Object oriented programming class.
+It was made to highlight several concepts that were studied in the OOP class, such as implementing diferent types of classes, STL objects, virtualisation and the development of a larger scale application.
+It works by having a series of binary files used as a form of memory, from which data is loaded at the start of each session and where data is written at the and of each session. It can load data both from binary texts (which are passed as parameters to the main function) and from the user directly. It also has a test mode accesed by passing the "test" argument to the main function that grants acces to the program's functions for easier debugging.   
+Interaction with the application is done via a simple form of menu in which the user can choose to insert data, delete data, or acces a number of predefined reports about the stored data. At the end of each session, an overview of the data stored is shown to the user. 
